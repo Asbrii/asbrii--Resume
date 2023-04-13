@@ -1,0 +1,544 @@
+/*#h{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 30px;;
+     background-color:silver;
+height:38px;
+padding-top: 50px;
+
+}*/
+/*#sri{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 30px;;
+    background-color:silver;
+    margin-left: -100px;
+
+}*/
+
+#u{list-style-type: none; padding-left: 305px;
+    height: 50px;
+     background-color:white;
+    margin-top:-45px
+     ;position: fixed
+     ;
+     padding-top: 60px;
+     padding-left: 11px;
+     background-color: rgb(244, 242, 242);
+    
+}
+.link{display: inline-block;
+}
+#na{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-top: 205px
+;padding-left: 220px;
+font-size: 45px;
+}
+#cr{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    margin-top: -30px;
+padding-left:370px;
+}
+
+
+#con{
+    font-family:monospace;
+    font-size: 20px;
+    margin-top: -100px;
+padding-left:10px;    
+}
+#hi{background-color: black
+    ; font-size: 25px;
+    color: aliceblue;border: 2px solid black;
+ border-width: 30px; border-radius:30px
+  ; margin: 400px;
+}
+/*.wave {
+    animation-name: wave-animation;  
+    animation-duration: 2.5s;        
+    animation-iteration-count: infinite; 
+    transform-origin: 70% 70%;       
+    display: inline-block;
+    margin-left: 20px;
+
+    
+    
+  }
+  
+  @keyframes wave-animation {
+      0% { transform: rotate( 0.0deg) }
+     10% { transform: rotate(14.0deg) }  
+         20% { transform: rotate(-8.0deg) }
+     30% { transform: rotate(14.0deg) }
+     40% { transform: rotate(-4.0deg) }
+     50% { transform: rotate(10.0deg) }
+     60% { transform: rotate( 0.0deg) }  
+         100% { transform: rotate( 0.0deg) }
+  }
+  body { font-size: 1px }
+h1 { font-size: 40px }
+*/  
+#sr{ font-family: fantasy;
+    color: black;
+    font-size: 20px;
+
+    margin: 450px;
+
+}
+#aa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+}  
+#int{ font-family: monospace;
+    margin-left: -240px;
+    font-size:20px;;
+    margin-top:-15px;
+
+}
+  #exp{
+    border: 5px solid black
+    ;height: 110px
+    ;width: 110px;
+    margin-left: 650px;
+    border-radius: 20px;
+    
+  }
+  #pro{
+    border: 5px solid black
+    ;height: 110px
+    ;width: 110px;
+    margin-left: 820px;
+    margin-top: -119px;
+ border-radius: 20px;
+  }
+
+ #onl{border: 5px solid black
+    ;height: 110px
+    ;width: 110px;
+    margin-left: 980px;
+    margin-top: -119px;
+border-radius: 20px; 
+} 
+#des{
+    font-family:
+     Impact, Haettenschweiler, 'Arial Narrow Bold'
+     , sans-serif;
+     margin-top: 40px;
+     font-size: 20px;
+     margin-left: 500px;
+}
+#profile{
+    border: 0px solid white;
+    border-radius: 45px;
+}
+#cv{background-color: black
+    ; font-size: 25px;
+    color: aliceblue;border: 2px solid black;
+    font-family: sans-serif;
+ border-width: 25px; border-radius:30px;
+ margin-left: 750px;
+ margin-top: 10px;
+
+}
+
+#skil{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+}  
+#tech{ font-family: monospace;
+    margin-left: -190px;
+    font-size:20px;;
+    margin-top:-25px;
+}
+#fskill{
+
+    font-family: fantasy;
+    font-size: 25px;
+margin-left: 120px;}
+#f1s{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+    list-style-type : disc;
+    font-size : 20px
+}
+
+#flevel{
+    font-family: fantasy;
+    font-size: 25px;
+margin-left: 362px;
+margin-top: -338px;}
+#f1l{
+    font-family: monospace;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 250px;
+}
+#bskill{
+
+    font-family: fantasy;
+    font-size: 25px;
+margin-left: 690px;
+margin-top: -333px;}
+#b1s{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    list-style-type : disc;
+    font-size : 20px;
+    margin-left: 600px;
+}
+
+#blevel{
+    font-family: fantasy;
+    font-size: 25px;
+margin-left: 950px;
+margin-top: -309px;}
+#b1l{
+    font-family: monospace;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 850px;
+    margin-top: -0px;
+}
+
+#qua{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+}  
+#my{ font-family: monospace;
+    margin-left: -180px;
+    font-size:20px;;
+    margin-top:-25px;
+}
+#mech{
+    font-family: Arial, Helvetica, 
+    sans-serif;
+   font-size: 25px;
+   margin-left: 30px;
+}
+#deg{
+    font-family:
+     'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+#ml{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#cs{
+    font-family: Arial, Helvetica, 
+    sans-serif;
+   font-size: 25px;
+   margin-left: 30px;
+}
+#a12{
+    font-family: 'Segoe UI', Tahoma, 
+    Geneva, Verdana, sans-serif;
+  
+}
+#hslc{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#a10{
+    font-family: Arial, Helvetica, 
+    sans-serif;
+   font-size: 25px;
+   margin-left: 30px;
+}
+#ten{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+#sslc{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#service{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+     
+}  
+#offer{ font-family: monospace;
+    margin-left:-240px;
+    font-size:20px;;
+    margin-top:-30px;
+}
+#fdborder{
+    border: 2px solid black;
+    height: 200px;width: 200px;
+    padding-left: 20px;
+    padding-top: 40px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+#dbborder{
+    border: 2px solid black;
+    height: 200px;width: 200px;
+    padding-left: 20px;
+    padding-top: 40px;
+    margin-left: 500px;
+    margin-top: -244px;
+}
+
+#bdborder{
+    border: 2px solid black;
+    height: 200px;width: 200px;
+    padding-left: 20px;
+    padding-top: 40px;
+    margin-left: 850px;
+    margin-top: -244px;
+}
+.servicetext{
+    font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif; 
+    font-size: 21px;
+    margin-left: -130px;
+}
+#servicefd{
+    margin-left: -178px;
+}
+.readservice{
+    font-family: monospace;
+    margin-left: -40px;
+    font-size: 15px;
+    color: black;
+}
+.servicelink{
+    margin-top: -20px;
+}
+
+#Contact{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+     
+}  
+#getin{ font-family: monospace;
+    margin-left: -300px;
+    font-size:20px;;
+    margin-top:-30px;
+}
+#talktome
+{
+    font-size: 28px;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+#emailbox
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 390px;
+    margin-top: 60px;
+    margin-left: 120px;
+    border-radius: 20px;
+}
+.contactimg{
+    height: 50px;
+    width: 50px;
+    padding-left: 130px;
+    padding-top: 20px;
+    
+}
+.contactids
+{
+    padding-left: 120px;
+    margin-top: -2px;
+}
+#etext{
+    padding-left: 130px;
+    margin-top: -2px;
+}
+#e.com{
+    padding-left: 130px;
+}
+#m80{
+    padding-left: -10px;
+}
+#in.com
+{
+    padding-left: 100px;
+}
+.goto{
+    padding-left: 90px;
+}
+#forprojects{
+    margin-left: 800px;
+ margin-top: -820px;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+ Ubuntu, Cantarell, 'Open Sans',
+  'Helvetica Neue', sans-serif;
+ font-size: 25px;
+}
+.introfonts{
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+    
+}
+.introimg
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 40px;
+}
+#srini007{
+    margin-left: 70px;
+}
+#gmailclick{
+    margin-left: 0px;
+}
+#sri2280{
+    margin-left: 70px;
+
+}
+#linkedlinker{
+    margin-left: 0px;
+}
+
+#Portfolio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px
+     ;margin-top: 100px;
+     padding-left: 370px;
+} 
+
+.project{
+    border: 2px black solid;
+    height: 30px;
+    width: 280px;
+    border-radius: 2px;
+   
+    }
+
+.pro-box{
+display: flex;
+margin-left: 150px;
+
+}
+
+.linker{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+}
+
+#foring{
+    border: 0px solid whitesmoke;
+    height: 600px;
+    width: 500px;
+    margin-left: 590px;
+    margin-top: 60px;
+    border-radius: 20px;
+
+}
+
+.container{
+    background-color: whitesmoke;
+    width: 320px;
+    padding: 30px 60px;
+    border-radius: 6px;
+    box-shadow: 25px 20px 35px  rgb(11, 11, 182) (0, 0, 0, 0.1);
+  }
+  
+  h1{
+    text-align: center;
+    color: rgb(32, 32, 32);
+  }
+  
+  p{
+    text-align: center;
+    color: rgb(146, 146, 146);
+  }
+  
+  form{
+    font-weight: 500;
+    margin-top: 15px;
+  }
+  
+  label{
+    font-weight: 200;
+    font-size: 18px;
+    color: rgb(53, 53, 53);
+  }
+  
+  input, textarea, button{
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 4px;
+    padding: 6px;
+    border-color: rgb(197, 196, 196);
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #b4b4b4 ;
+    margin-top: 3px;
+  }
+  
+  button{
+    font-size: 21px;
+    margin-top: 5px;
+    color:black;
+    background-color: gainsboro;
+  
+  }
+  
+  
+  .fn, .ea, .sub, .cn, .ym, .smt{
+    display: grid;
+    margin: 10px;
+  }
+  
+  button:hover{
+    color: #000000;
+    cursor: pointer;
+  }
+  
+  textarea{
+    resize: none;
+  }
+  
+  input:focus, textarea:focus{
+    outline-color:#b4b4b4;
+  }
+  #conbox{
+    padding-left: 600px;
+    margin-top: -610px;
+  }
+
+  
+#footer{
+    border: 1px solid black;
+    height: 200px;
+    width: 1050px;
+    margin-left: 100px;
+    margin-top: 210px;
+    background-color:whitesmoke;
+}
+
+.ftimg{
+    height: 25px;
+    width: 25px;
+}
+
+#srinift{
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: -100px;
+    color: black;
+}
+#q1{ padding-left: 300px;
+
+}
+#q2{ padding-left: 360px;
+    margin-top: -29px;}
+
+#q3{ padding-left: 420px;
+     margin-top: -29px;}
+
+#pow{
+    color: black;
+    margin-top: -30px;
+}
